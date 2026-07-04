@@ -1,82 +1,130 @@
-# Hi there 👋, I'm Qais Rjoob
+# Hi, I'm Qais Rjoob 👋
 
-💻 Intern Software Engineer | 🎓 IT Student @ Al-Quds University  
-🌍 Based in Palestine | Passionate about building scalable and modern applications  
+Software Engineer focused on backend development, distributed systems, and cross-platform applications.
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Currently studying **Information Technology (Dual Studies Program)**
-- 💼 Intern Software Engineer with hands-on experience in real projects
-- 🔥 Interested in:
-  - Backend Development
-  - Cross-platform Apps
-  - Game Development
-- 🧠 Strong foundation in **OOP, Data Structures, and System Design**
+I'm currently an Information Technology student in the Dual Studies Program at Al-Quds University, combining academic studies with professional software engineering experience. I'm passionate about designing scalable systems, writing clean code, and building production-ready applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 💻 Languages
-- C#
+- 💼 Former Software Engineering Intern
+- 🎓 B.Sc. in Information Technology (Expected Graduation: 2028)
+- 🌍 Exchange Student at the University of Málaga, Spain
+- 💻 Interested in Backend Engineering, Cloud Technologies, and Distributed Systems
+- 📚 Currently improving my knowledge of Kubernetes, System Design, and High-Performance Java Applications
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
 - Java
+- C#
 - Python
-- PL/SQL
+- TypeScript
+- Dart
+- JavaScript
+- SQL / PL-SQL
 
-### ⚙️ Frameworks & Technologies
+### Backend
+- Spring Boot
 - ASP.NET Core
-- .NET MAUI
-- Flutter
-- Unity
+- Entity Framework Core
 - REST APIs
+- JWT Authentication
+- Microservices
+
+### Mobile
+- Flutter
+- React Native (Expo)
+- .NET MAUI
+
+### Databases
+- PostgreSQL
+- SQL Server
+- MongoDB
+- Redis
+- Oracle Database
+
+### DevOps & Tools
+- Docker
+- Docker Compose
+- Kubernetes (Basics)
+- Git & GitHub
+- Postman
+- Visual Studio
+- IntelliJ IDEA
+
+---
+
+# Featured Projects
+
+## 🍔 Fudo App
+**React Native • Spring Boot • SQL Server • Docker**
+
+A full-stack food ordering platform built with a Java Spring Boot microservices backend and a React Native (Expo) frontend.
+
+**Highlights**
+- JWT Authentication
+- Role-based Authorization
+- Spring Data JPA
+- Docker Compose
+- RESTful APIs
+- SQL Server
+
+---
+
+## 📚 Course Delivery Platform
+**Flutter • ASP.NET Core • SQL Server**
+
+Cross-platform educational platform developed during my internship.
+
+**Highlights**
+- Flutter Mobile/Desktop
+- ASP.NET Core APIs
+- Entity Framework Core
+- JWT Authentication
+- Offline Support
 - Docker
 
-### 🗄️ Databases
-- SQL Server
-- Oracle DB
-- PostgreSQL
+---
 
-### 🧰 Tools
-- Git & GitHub
-- Visual Studio
-- Postman
-- Docker Desktop
+## 🌌 Cosmic Zoom Verse
+**React • FastAPI • PostgreSQL**
+
+Machine Learning web application for exoplanet classification using LightGBM and XGBoost.
 
 ---
 
-## 🚀 Projects
+## 🎮 Name-Animal-Plant-Object-Cities
 
-### 📱 Course Delivery Platform
-- Built using **Flutter + ASP.NET Core**
-- Secure authentication with JWT
-- RESTful API architecture
-- Dockerized backend services
-- Real-time features & offline support
+Real-time multiplayer game built with:
 
-### 🎮 Little Red Riding Hood Game
-- 2D game built with **Unity**
-- Custom mechanics, traps, and player movement
-- Basic AI for enemy behavior
-- (Work in progress 🚧)
+- React
+- Socket.io
+- Redis
+- MongoDB
+
+Features live gameplay, AI bots, peer voting, and leaderboard synchronization.
 
 ---
 
-## 📈 What I'm Working On
+## 📈 Currently Learning
 
-- Improving backend architecture skills
-- Learning advanced system design
-- Publishing my Unity game 🎮
+- Kubernetes
+- Distributed Systems
+- System Design
+- Cloud Architecture
+- Advanced Java
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
 - 📧 Email: qais.rjoob@students.alquds.edu
 - 💼 LinkedIn: https://linkedin.com/in/qais-rjoob-64b673182
 
 ---
 
-## ⚡ Fun Fact
-I enjoy combining **software engineering + game development** to build creative and functional projects.
+> "I enjoy building software that is scalable, maintainable, and solves real-world problems."
