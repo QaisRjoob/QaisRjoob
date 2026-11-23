@@ -2,135 +2,112 @@
 
 # Hi, I'm Qais Rjoob 👋
 
-### Software Engineer · Backend & Distributed Systems · Cross-Platform Apps
+### Software Engineer · Backend Development & Test Automation · .NET · Python · Linux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qais_Rjoob-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qais-rjoob-64b673182)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qais.rjoob@students.alquds.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Qais_Rjoob-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qais-rjoob-64b673182/)
+[![Email](https://img.shields.io/badge/Email-awsrjwb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awsrjwb@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-QaisRjoob-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QaisRjoob)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About me
 
-I'm an **Information Technology student in the Dual Studies Program at Al-Quds University**, where I combine academic studies with hands-on software engineering work. I like designing **scalable systems**, writing **clean, maintainable code**, and shipping **production-ready applications**.
+I build backend services and the automated tests that keep them honest. Most of my work is in
+**ASP.NET Core microservices**, **REST APIs** and **SQL databases**, and I like checking a system from
+the outside too: API test suites in Bash and Python, integration and concurrency tests, and load tests.
 
-- 💼 Former **Software Engineering Intern**
-- 🎓 **B.Sc. in Information Technology**, Al-Quds University *(expected 2028)*
-- 🌍 **Exchange Student** at the **University of Málaga**, Spain
-- 🎯 Focus areas: **Backend Engineering**, **Cloud Technologies**, **Distributed Systems**
-- 📚 Currently deepening my knowledge of **Kubernetes**, **System Design**, and **high-performance Java**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_/_PL--SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=flat-square&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat-square&logo=serverless&logoColor=white)
-
-**Frontend & Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native_(Expo)-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker_&_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+- 💼 **Intern Software Engineer** at Trusted System, Hebron (Nov 2023 – Sep 2026): main developer in a
+  three-person team building a Flutter delivery app on 13 ASP.NET Core microservices
+- 🎓 **B.Sc. Information Technology**, Dual Studies Program, Al-Quds University (expected June 2027)
+- 🌍 **Exchange semester** at the University of Málaga, Spain (2026)
+- 🐧 Comfortable on **Linux**: I run my own Ubuntu server at home
+- 📍 Hebron, West Bank
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🍔 Fudo
-**Spring Boot · React Native · SQL Server · Docker**
+### 📊 Usage Metering & Quota Service
+**TypeScript · Fastify · PostgreSQL · React · Docker**
 
-Full-stack social app for sharing food recipes, with a **Java 17 / Spring Boot 3 microservices** backend (8 services + API gateway) and an **offline-first Expo** mobile client.
+Two-level quota enforcement for multi-tenant apps that stays correct under retries and concurrent
+traffic.
 
-- JWT authentication & role-based authorization
-- Spring Data JPA · Docker Compose · RESTful APIs
-- MVVM architecture with local SQLite
+- Idempotent requests, row locks and PostgreSQL transactions
+- 155+ automated tests: unit, integration, concurrency, security, tenant isolation
+- Load tests with autocannon · JWT with refresh-token rotation
 
-[Backend](https://github.com/QaisRjoob/Fudo-Backend) · [Frontend](https://github.com/QaisRjoob/Fudo-Frontend)
+[Repository](https://github.com/QaisRjoob/usage-metering-service) · [Live demo](https://usage-metering-frontend-w270.onrender.com)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Course Delivery Platform
-**Flutter · ASP.NET Core · SQL Server**
+### 🛵 Delivery Service Platform
+**Flutter · ASP.NET Core · SQL Server · Docker**
 
-A cross-platform educational platform I built during my internship.
+The platform I worked on during my internship at Trusted System.
 
-- Flutter mobile & desktop clients
-- ASP.NET Core APIs with Entity Framework Core
-- JWT authentication
-- Offline support · Docker
+- 13 ASP.NET Core microservices behind a YARP API gateway
+- RabbitMQ messaging, Redis caching, JWT, Entity Framework Core
+- Automated API test scripts in Bash (curl + sqlcmd) and Python
+- Azure Pipelines CI
 
-*Private (internship project)*
+*Private (company project)*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 Cosmic Zoom Verse
-**React · FastAPI · PostgreSQL · ML**
+### 🌌 Cosmic Zoom Verse: Exoplanet Classifier
+**React · Three.js · Python · FastAPI · LightGBM · XGBoost**
 
-A machine-learning web app that classifies NASA Kepler exoplanet candidates using a **LightGBM + XGBoost stacking ensemble** with **95%+ accuracy** on a GPU-accelerated API.
+Built in a team of four at the NASA Space Apps hackathon: a 3D space explorer that classifies Kepler
+planet candidates with a LightGBM + XGBoost stacking ensemble served by FastAPI.
 
-[Frontend](https://github.com/QaisRjoob/Nasa-Kepler-Sight) · [Backend](https://github.com/QaisRjoob/exoplanet-classifier-BackEnd)
+[Frontend](https://github.com/QaisRjoob/Nasa-Kepler-Sight) · [Backend](https://github.com/QaisRjoob/exoplanet-classifier-BackEnd) · [Live demo](https://nasa-kepler-sight.onrender.com)
 
 </td>
 <td width="50%" valign="top">
 
+### 🍔 Fudo
+**Java · Spring Boot · React Native · SQL Server · Docker**
+
+A recipe-sharing social app: 8 Spring Boot microservices behind Spring Cloud Gateway, and an
+offline-first Expo client with MVVM and SQLite.
+
+- JWT authentication, role-based access, Spring Data JPA
+- JUnit 5 + Mockito tests · Docker Compose
+
+[Backend](https://github.com/QaisRjoob/Fudo-Backend) · [Mobile app](https://github.com/QaisRjoob/Fudo-Frontend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎮 Name · Animal · Plant · Object · Cities
-**React · Node.js · Socket.IO · Redis · MongoDB**
+**React · Node.js · Socket.IO · MongoDB**
 
-A real-time multiplayer word game: fill in each category with the chosen letter before time runs out.
+A real-time multiplayer word game in English and Arabic, with a server-authoritative game engine, bot
+players and challenge votes.
 
-- Live gameplay over WebSockets
-- AI bots & peer voting
-- Synchronized live leaderboard
+[Frontend](https://github.com/QaisRjoob/Name-Animal-Plant-Object-Cities-Frontend) · [Backend](https://github.com/QaisRjoob/Name-Animal-Plant-Object-Cities-BackEnd) · [Live demo](https://name-animal-plant-object-cities.onrender.com)
 
-[Frontend](https://github.com/QaisRjoob/Name-Animal-Plant-Object-Cities-Frontend) · [Backend](https://github.com/QaisRjoob/Name-Animal-Plant-Object-Cities-BackEnd)
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Smaller projects
+
+- **[First AI Agent](https://github.com/QaisRjoob/first_Ai_Agent)**: a Python coding agent with LLM tool calling and a sandboxed file system
+- **[Gator](https://github.com/QaisRjoob/blog-aggregator)**: a multi-user RSS aggregator CLI in TypeScript, PostgreSQL and Drizzle
+- **[WebFlyx](https://github.com/QaisRjoob/webflyx)**: Git workflow practice with branches, merges and remotes
 
 </td>
 </tr>
@@ -138,29 +115,75 @@ A real-time multiplayer word game: fill in each category with the chosen letter 
 
 ---
 
-## 📈 Currently Learning
+## 🛠️ Tech stack
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-555555?style=flat-square)
-![System Design](https://img.shields.io/badge/System_Design-555555?style=flat-square)
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-555555?style=flat-square)
-![Advanced Java](https://img.shields.io/badge/Advanced_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_/_PL--SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Backend**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Testing**
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![API testing](https://img.shields.io/badge/API_testing-Bash_/_curl-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Load testing](https://img.shields.io/badge/Load_testing-autocannon-555555?style=flat-square)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Frontend and mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native_(Expo)-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**DevOps and tools**
+
+![Linux](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_&_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Currently learning
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-555555?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-555555?style=flat-square)
+![Networking](https://img.shields.io/badge/TCP/IP_Networking-555555?style=flat-square)
+
+---
+
+## 📊 GitHub stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=QaisRjoob&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaisRjoob&layout=compact&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-> *"I enjoy building software that is scalable, maintainable, and solves real-world problems."*
 
 </div>
