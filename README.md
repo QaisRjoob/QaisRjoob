@@ -103,11 +103,16 @@ players and challenge votes.
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Smaller projects
+### 🤖 First AI Agent
+**Python · OpenAI SDK · OpenRouter**
 
-- **[First AI Agent](https://github.com/QaisRjoob/first_Ai_Agent)**: a Python coding agent with LLM tool calling and a sandboxed file system
-- **[Gator](https://github.com/QaisRjoob/blog-aggregator)**: a multi-user RSS aggregator CLI in TypeScript, PostgreSQL and Drizzle
-- **[WebFlyx](https://github.com/QaisRjoob/webflyx)**: Git workflow practice with branches, merges and remotes
+A command-line coding agent built from scratch: an agentic loop with LLM tool calling that can list,
+read, write and run Python files inside a sandbox.
+
+- Path-traversal protection on every file operation
+- Subprocess execution with a 30-second timeout
+
+[Repository](https://github.com/QaisRjoob/first_Ai_Agent)
 
 </td>
 </tr>
